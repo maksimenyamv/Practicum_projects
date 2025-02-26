@@ -18,9 +18,10 @@
 - NumPy  
 - pandas  
 - Matplotlib  
-- Seaborn  
-- SHAP  
+- Seaborn
+- Phik
+- Scikit-learn
 - CatBoost  
 - LightGBM  
-- Phik  
-- Scikit-learn  
+- SHAP  
+ 
