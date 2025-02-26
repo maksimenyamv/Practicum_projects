@@ -1,4 +1,4 @@
 # Мои проекты
 
-- [Проект 1](https://github.com/maksimenyamv/Practicum_projects/tree/main/SteelTempPredictor))
-- [Проект 2](https://github.com/maksimenyamv/project2)
+- [Создание предиктивной модели для прогнозирования температуры стали](https://github.com/maksimenyamv/Practicum_projects/tree/main/SteelTempPredictor)
+- [Прогнозирование удовлетворённости сотрудников и риска увольнения](https://github.com/maksimenyamv/project2)
